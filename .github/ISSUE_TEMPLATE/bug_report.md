@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Submit a bug report about an addon feature
-title: "[BUG] - Bug report title"
+title: "[Bug] - Bug report title"
 labels: bug report
 assignees: Mailliw102
 
