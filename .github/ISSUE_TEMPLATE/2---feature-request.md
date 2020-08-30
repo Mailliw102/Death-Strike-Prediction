@@ -1,7 +1,7 @@
 ---
 name: 2 - Feature request
 about: Suggest an idea for the addon
-title: "[Feature Request - Feature request title"
+title: "[Feature Request] - Feature request title"
 labels: feature request
 assignees: Mailliw102
 
